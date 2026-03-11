@@ -1,4 +1,3 @@
-C:\practica\DeliveryMotoconcho\Delivery.UI\bin\Debug\Delivery.UI.dll
 C:\practica\DeliveryMotoconcho\Delivery.UI\bin\Debug\Delivery.UI.pdb
 C:\practica\DeliveryMotoconcho\Delivery.UI\bin\Debug\Delivery.Datos.dll
 C:\practica\DeliveryMotoconcho\Delivery.UI\bin\Debug\Delivery.Negocios.dll
@@ -7,7 +6,8 @@ C:\practica\DeliveryMotoconcho\Delivery.UI\bin\Debug\Delivery.Negocios.pdb
 C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.csproj.AssemblyReference.cache
 C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.csproj.CoreCompileInputs.cache
 C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.64F74732.Up2Date
-C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.dll
 C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.pdb
 C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.FrmRepartidor.resources
 C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.csproj.GenerateResource.cache
+C:\practica\DeliveryMotoconcho\Delivery.UI\bin\Debug\Delivery.UI.exe
+C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.exe
