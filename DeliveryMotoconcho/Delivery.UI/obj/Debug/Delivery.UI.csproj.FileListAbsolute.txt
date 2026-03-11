@@ -9,3 +9,5 @@ C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.csproj.CoreComp
 C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.64F74732.Up2Date
 C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.dll
 C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.pdb
+C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.FrmRepartidor.resources
+C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.csproj.GenerateResource.cache

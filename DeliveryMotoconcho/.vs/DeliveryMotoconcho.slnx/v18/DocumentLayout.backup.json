@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\practica\\DeliveryMotoconcho\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8F6E183C-FE89-4E15-A45A-259D9E8F84B0}|Delivery.Negocios\\Delivery.Negocios.csproj|c:\\practica\\deliverymotoconcho\\delivery.negocios\\liquidacionnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6E183C-FE89-4E15-A45A-259D9E8F84B0}|Delivery.Negocios\\Delivery.Negocios.csproj|solutionrelative:delivery.negocios\\liquidacionnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|c:\\practica\\deliverymotoconcho\\delivery.ui\\frmliquidacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|solutionrelative:delivery.ui\\frmliquidacion.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F6E183C-FE89-4E15-A45A-259D9E8F84B0}|Delivery.Negocios\\Delivery.Negocios.csproj|c:\\practica\\deliverymotoconcho\\delivery.negocios\\pedidonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|c:\\practica\\deliverymotoconcho\\delivery.ui\\frmliquidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|solutionrelative:delivery.ui\\frmliquidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|c:\\practica\\deliverymotoconcho\\delivery.ui\\frmliquidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|solutionrelative:delivery.ui\\frmliquidacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|c:\\practica\\deliverymotoconcho\\delivery.ui\\fmrpedido.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|solutionrelative:delivery.ui\\fmrpedido.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|c:\\practica\\deliverymotoconcho\\delivery.ui\\fmrpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|solutionrelative:delivery.ui\\fmrpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|c:\\practica\\deliverymotoconcho\\delivery.ui\\fmrpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|solutionrelative:delivery.ui\\fmrpedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|c:\\practica\\deliverymotoconcho\\delivery.ui\\frmrepartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|solutionrelative:delivery.ui\\frmrepartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|c:\\practica\\deliverymotoconcho\\delivery.ui\\frmrepartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E0DCC-C75D-4285-9B2B-CC45F020557C}|Delivery.UI\\Delivery.UI.csproj|solutionrelative:delivery.ui\\frmrepartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC1E7FA2-1B74-4721-8B8A-5FEE082C557E}|Delivery.Datos\\Delivery.Datos.csproj|C:\\practica\\DeliveryMotoconcho\\delivery.datos\\repartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC1E7FA2-1B74-4721-8B8A-5FEE082C557E}|Delivery.Datos\\Delivery.Datos.csproj|solutionrelative:delivery.datos\\repartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6E183C-FE89-4E15-A45A-259D9E8F84B0}|Delivery.Negocios\\Delivery.Negocios.csproj|C:\\practica\\DeliveryMotoconcho\\delivery.negocios\\repartidornegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6E183C-FE89-4E15-A45A-259D9E8F84B0}|Delivery.Negocios\\Delivery.Negocios.csproj|solutionrelative:delivery.negocios\\repartidornegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6E183C-FE89-4E15-A45A-259D9E8F84B0}|Delivery.Negocios\\Delivery.Negocios.csproj|C:\\practica\\DeliveryMotoconcho\\delivery.negocios\\pedidonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8F6E183C-FE89-4E15-A45A-259D9E8F84B0}|Delivery.Negocios\\Delivery.Negocios.csproj|solutionrelative:delivery.negocios\\pedidonegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8F6E183C-FE89-4E15-A45A-259D9E8F84B0}|Delivery.Negocios\\Delivery.Negocios.csproj|c:\\practica\\deliverymotoconcho\\delivery.negocios\\repartidornegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8F6E183C-FE89-4E15-A45A-259D9E8F84B0}|Delivery.Negocios\\Delivery.Negocios.csproj|solutionrelative:delivery.negocios\\repartidornegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8F6E183C-FE89-4E15-A45A-259D9E8F84B0}|Delivery.Negocios\\Delivery.Negocios.csproj|C:\\practica\\DeliveryMotoconcho\\delivery.negocios\\liquidacionnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6E183C-FE89-4E15-A45A-259D9E8F84B0}|Delivery.Negocios\\Delivery.Negocios.csproj|solutionrelative:delivery.negocios\\liquidacionnegocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DC1E7FA2-1B74-4721-8B8A-5FEE082C557E}|Delivery.Datos\\Delivery.Datos.csproj|C:\\practica\\DeliveryMotoconcho\\delivery.datos\\liquidaciondao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,10 +79,6 @@
       "RelativeMoniker": "D:0:0:{DC1E7FA2-1B74-4721-8B8A-5FEE082C557E}|Delivery.Datos\\Delivery.Datos.csproj|solutionrelative:delivery.datos\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC1E7FA2-1B74-4721-8B8A-5FEE082C557E}|Delivery.Datos\\Delivery.Datos.csproj|C:\\practica\\DeliveryMotoconcho\\delivery.datos\\repartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC1E7FA2-1B74-4721-8B8A-5FEE082C557E}|Delivery.Datos\\Delivery.Datos.csproj|solutionrelative:delivery.datos\\repartidor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DC1E7FA2-1B74-4721-8B8A-5FEE082C557E}|Delivery.Datos\\Delivery.Datos.csproj|C:\\practica\\DeliveryMotoconcho\\delivery.datos\\zona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC1E7FA2-1B74-4721-8B8A-5FEE082C557E}|Delivery.Datos\\Delivery.Datos.csproj|solutionrelative:delivery.datos\\zona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,45 +99,143 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "LiquidacionNegocio.cs",
-              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\LiquidacionNegocio.cs",
-              "RelativeDocumentMoniker": "Delivery.Negocios\\LiquidacionNegocio.cs",
-              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\LiquidacionNegocio.cs*",
-              "RelativeToolTip": "Delivery.Negocios\\LiquidacionNegocio.cs*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
+              "Title": "FrmLiquidacion.Designer.cs",
+              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FrmLiquidacion.Designer.cs",
+              "RelativeDocumentMoniker": "Delivery.UI\\FrmLiquidacion.Designer.cs",
+              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FrmLiquidacion.Designer.cs",
+              "RelativeToolTip": "Delivery.UI\\FrmLiquidacion.Designer.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T03:13:38.784Z",
+              "WhenOpened": "2026-03-11T18:17:45.074Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PedidoNegocio.cs",
-              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\PedidoNegocio.cs",
-              "RelativeDocumentMoniker": "Delivery.Negocios\\PedidoNegocio.cs",
-              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\PedidoNegocio.cs*",
-              "RelativeToolTip": "Delivery.Negocios\\PedidoNegocio.cs*",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwBwAAAABAAAAAAAAAA==",
+              "Title": "FrmLiquidacion.cs",
+              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FrmLiquidacion.cs",
+              "RelativeDocumentMoniker": "Delivery.UI\\FrmLiquidacion.cs",
+              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FrmLiquidacion.cs",
+              "RelativeToolTip": "Delivery.UI\\FrmLiquidacion.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwFUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-11T03:11:42.619Z",
+              "WhenOpened": "2026-03-11T18:16:41.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "RepartidorNegocio.cs",
-              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\RepartidorNegocio.cs",
-              "RelativeDocumentMoniker": "Delivery.Negocios\\RepartidorNegocio.cs",
-              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\RepartidorNegocio.cs*",
-              "RelativeToolTip": "Delivery.Negocios\\RepartidorNegocio.cs*",
-              "ViewState": "AgIAABAAAAAAAAAAAAAUwBoAAAABAAAAAAAAAA==",
+              "Title": "FrmLiquidacion.cs [Design]",
+              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FrmLiquidacion.cs",
+              "RelativeDocumentMoniker": "Delivery.UI\\FrmLiquidacion.cs",
+              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FrmLiquidacion.cs [Design]",
+              "RelativeToolTip": "Delivery.UI\\FrmLiquidacion.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T22:46:59.023Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T18:15:50.703Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "FmrPedido.Designer.cs",
+              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FmrPedido.Designer.cs",
+              "RelativeDocumentMoniker": "Delivery.UI\\FmrPedido.Designer.cs",
+              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FmrPedido.Designer.cs",
+              "RelativeToolTip": "Delivery.UI\\FmrPedido.Designer.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAFsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:12:12.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FmrPedido.cs",
+              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FmrPedido.cs",
+              "RelativeDocumentMoniker": "Delivery.UI\\FmrPedido.cs",
+              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FmrPedido.cs",
+              "RelativeToolTip": "Delivery.UI\\FmrPedido.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAkwE8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:09:16.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FmrPedido.cs [Design]",
+              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FmrPedido.cs",
+              "RelativeDocumentMoniker": "Delivery.UI\\FmrPedido.cs",
+              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FmrPedido.cs [Design]",
+              "RelativeToolTip": "Delivery.UI\\FmrPedido.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T18:08:25.212Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmRepartidor.cs",
+              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FrmRepartidor.cs",
+              "RelativeDocumentMoniker": "Delivery.UI\\FrmRepartidor.cs",
+              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FrmRepartidor.cs",
+              "RelativeToolTip": "Delivery.UI\\FrmRepartidor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:30:33.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmRepartidor.cs [Design]",
+              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FrmRepartidor.cs",
+              "RelativeDocumentMoniker": "Delivery.UI\\FrmRepartidor.cs",
+              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.UI\\FrmRepartidor.cs [Design]",
+              "RelativeToolTip": "Delivery.UI\\FrmRepartidor.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T17:28:27.979Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LiquidacionNegocio.cs",
+              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\LiquidacionNegocio.cs",
+              "RelativeDocumentMoniker": "Delivery.Negocios\\LiquidacionNegocio.cs",
+              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\LiquidacionNegocio.cs",
+              "RelativeToolTip": "Delivery.Negocios\\LiquidacionNegocio.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T03:13:38.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PedidoNegocio.cs",
+              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\PedidoNegocio.cs",
+              "RelativeDocumentMoniker": "Delivery.Negocios\\PedidoNegocio.cs",
+              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\PedidoNegocio.cs",
+              "RelativeToolTip": "Delivery.Negocios\\PedidoNegocio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T03:11:42.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RepartidorNegocio.cs",
+              "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\RepartidorNegocio.cs",
+              "RelativeDocumentMoniker": "Delivery.Negocios\\RepartidorNegocio.cs",
+              "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.Negocios\\RepartidorNegocio.cs",
+              "RelativeToolTip": "Delivery.Negocios\\RepartidorNegocio.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T22:46:59.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "LiquidacionDAO.cs",
               "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Datos\\LiquidacionDAO.cs",
               "RelativeDocumentMoniker": "Delivery.Datos\\LiquidacionDAO.cs",
@@ -117,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 14,
               "Title": "PedidoDAO.cs",
               "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Datos\\PedidoDAO.cs",
               "RelativeDocumentMoniker": "Delivery.Datos\\PedidoDAO.cs",
@@ -129,7 +259,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 15,
               "Title": "RepartidorDAO.cs",
               "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Datos\\RepartidorDAO.cs",
               "RelativeDocumentMoniker": "Delivery.Datos\\RepartidorDAO.cs",
@@ -141,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 16,
               "Title": "ZonaDAO.cs",
               "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Datos\\ZonaDAO.cs",
               "RelativeDocumentMoniker": "Delivery.Datos\\ZonaDAO.cs",
@@ -153,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Datos\\Conexion.cs",
               "RelativeDocumentMoniker": "Delivery.Datos\\Conexion.cs",
@@ -165,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "LiquidacionDiaria.cs",
               "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Datos\\LiquidacionDiaria.cs",
               "RelativeDocumentMoniker": "Delivery.Datos\\LiquidacionDiaria.cs",
@@ -177,7 +307,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 18,
               "Title": "Pedido.cs",
               "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Datos\\Pedido.cs",
               "RelativeDocumentMoniker": "Delivery.Datos\\Pedido.cs",
@@ -189,19 +319,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 8,
               "Title": "Repartidor.cs",
               "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Datos\\Repartidor.cs",
               "RelativeDocumentMoniker": "Delivery.Datos\\Repartidor.cs",
               "ToolTip": "C:\\practica\\DeliveryMotoconcho\\Delivery.Datos\\Repartidor.cs",
               "RelativeToolTip": "Delivery.Datos\\Repartidor.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA8wBYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwBYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T22:24:55.833Z"
+              "WhenOpened": "2026-03-10T22:24:55.833Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "Zona.cs",
               "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Datos\\Zona.cs",
               "RelativeDocumentMoniker": "Delivery.Datos\\Zona.cs",
@@ -213,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "EntidadBase.cs",
               "DocumentMoniker": "C:\\practica\\DeliveryMotoconcho\\Delivery.Datos\\EntidadBase.cs",
               "RelativeDocumentMoniker": "Delivery.Datos\\EntidadBase.cs",

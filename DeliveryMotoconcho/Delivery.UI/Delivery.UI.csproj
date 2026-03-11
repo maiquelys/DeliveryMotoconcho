@@ -33,6 +33,8 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -41,6 +43,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FmrPedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FmrPedido.Designer.cs">
+      <DependentUpon>FmrPedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmLiquidacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmLiquidacion.Designer.cs">
+      <DependentUpon>FrmLiquidacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmRepartidor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmRepartidor.Designer.cs">
+      <DependentUpon>FrmRepartidor.cs</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -52,6 +72,11 @@
       <Project>{8f6e183c-fe89-4e15-a45a-259d9e8f84b0}</Project>
       <Name>Delivery.Negocios</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="FrmRepartidor.resx">
+      <DependentUpon>FrmRepartidor.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
