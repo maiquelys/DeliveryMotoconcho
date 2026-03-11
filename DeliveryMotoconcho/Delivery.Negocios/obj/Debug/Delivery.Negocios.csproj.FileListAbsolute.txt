@@ -1,0 +1,9 @@
+C:\practica\DeliveryMotoconcho\Delivery.Negocios\bin\Debug\Delivery.Negocios.dll
+C:\practica\DeliveryMotoconcho\Delivery.Negocios\bin\Debug\Delivery.Negocios.pdb
+C:\practica\DeliveryMotoconcho\Delivery.Negocios\bin\Debug\Delivery.Datos.dll
+C:\practica\DeliveryMotoconcho\Delivery.Negocios\bin\Debug\Delivery.Datos.pdb
+C:\practica\DeliveryMotoconcho\Delivery.Negocios\obj\Debug\Delivery.Negocios.csproj.AssemblyReference.cache
+C:\practica\DeliveryMotoconcho\Delivery.Negocios\obj\Debug\Delivery.Negocios.csproj.CoreCompileInputs.cache
+C:\practica\DeliveryMotoconcho\Delivery.Negocios\obj\Debug\Delivery.92F6B48C.Up2Date
+C:\practica\DeliveryMotoconcho\Delivery.Negocios\obj\Debug\Delivery.Negocios.dll
+C:\practica\DeliveryMotoconcho\Delivery.Negocios\obj\Debug\Delivery.Negocios.pdb

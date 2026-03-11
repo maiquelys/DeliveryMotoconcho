@@ -1,0 +1,9 @@
+C:\practica\DeliveryMotoconcho\Delivery.Datos\bin\Debug\Delivery.Datos.dll
+C:\practica\DeliveryMotoconcho\Delivery.Datos\bin\Debug\Delivery.Datos.pdb
+C:\practica\DeliveryMotoconcho\Delivery.Datos\bin\Debug\System.Data.SqlClient.dll
+C:\practica\DeliveryMotoconcho\Delivery.Datos\bin\Debug\System.Data.SqlClient.xml
+C:\practica\DeliveryMotoconcho\Delivery.Datos\obj\Debug\Delivery.Datos.csproj.AssemblyReference.cache
+C:\practica\DeliveryMotoconcho\Delivery.Datos\obj\Debug\Delivery.Datos.csproj.CoreCompileInputs.cache
+C:\practica\DeliveryMotoconcho\Delivery.Datos\obj\Debug\Delivery.30B17EE3.Up2Date
+C:\practica\DeliveryMotoconcho\Delivery.Datos\obj\Debug\Delivery.Datos.dll
+C:\practica\DeliveryMotoconcho\Delivery.Datos\obj\Debug\Delivery.Datos.pdb

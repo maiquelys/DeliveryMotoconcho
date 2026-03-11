@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Delivery.Datos/Delivery.Datos.csproj" Id="dc1e7fa2-1b74-4721-8b8a-5fee082c557e" />
+  <Project Path="Delivery.Negocios/Delivery.Negocios.csproj" Id="8f6e183c-fe89-4e15-a45a-259d9e8f84b0" />
+  <Project Path="Delivery.UI/Delivery.UI.csproj" Id="072e0dcc-c75d-4285-9b2b-cc45f020557c" />
+</Solution>
