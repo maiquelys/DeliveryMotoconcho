@@ -70,6 +70,12 @@
     <Compile Include="FrmRepartidor.Designer.cs">
       <DependentUpon>FrmRepartidor.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmReportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmReportes.Designer.cs">
+      <DependentUpon>FrmReportes.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -84,6 +90,9 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="FmrPedido.resx">
+      <DependentUpon>FmrPedido.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmRepartidor.resx">
       <DependentUpon>FrmRepartidor.cs</DependentUpon>
     </EmbeddedResource>

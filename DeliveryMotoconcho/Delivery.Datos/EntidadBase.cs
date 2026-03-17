@@ -4,7 +4,7 @@ namespace Delivery.Datos
 {
     public abstract class EntidadBase
     {
-        // Constructor
+        // contructor
         public EntidadBase()
         {
             FechaCreacion = DateTime.Now;
@@ -12,10 +12,10 @@ namespace Delivery.Datos
 
         public DateTime FechaCreacion { get; set; }
 
-        // Método abstracto — cada clase hija DEBE implementarlo
+        // metodo abstracto
         public abstract string ObtenerDescripcion();
 
-        // Método virtual — puede ser sobreescrito o no
+        // metodo virtual
         public virtual string ObtenerInfo()
         {
             return $"Creado el: {FechaCreacion:dd/MM/yyyy}";

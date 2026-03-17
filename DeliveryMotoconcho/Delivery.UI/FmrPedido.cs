@@ -76,5 +76,10 @@ namespace Delivery.UI
             cmbRepartidor.SelectedIndex = 0;
             cmbZona.SelectedIndex = 0;
         }
+
+        private void FrmPedido_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

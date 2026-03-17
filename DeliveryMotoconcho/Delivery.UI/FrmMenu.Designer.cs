@@ -17,6 +17,7 @@
             this.btnRepartidores = new System.Windows.Forms.Button();
             this.btnPedidos = new System.Windows.Forms.Button();
             this.btnLiquidacion = new System.Windows.Forms.Button();
+            this.btnReportes = new System.Windows.Forms.Button();
             this.labelLogo = new System.Windows.Forms.Label();
             this.labelSub = new System.Windows.Forms.Label();
             this.panelContenido = new System.Windows.Forms.Panel();
@@ -31,6 +32,7 @@
             this.panelLateral.Controls.Add(this.btnRepartidores);
             this.panelLateral.Controls.Add(this.btnPedidos);
             this.panelLateral.Controls.Add(this.btnLiquidacion);
+            this.panelLateral.Controls.Add(this.btnReportes);
 
             this.labelLogo.Text = "🛵";
             this.labelLogo.Font = new System.Drawing.Font("Segoe UI", 36);
@@ -87,6 +89,19 @@
             this.btnLiquidacion.Padding = new System.Windows.Forms.Padding(15, 0, 0, 0);
             this.btnLiquidacion.Cursor = System.Windows.Forms.Cursors.Hand;
 
+            this.btnReportes.Text = "📊  Reportes";
+            this.btnReportes.Name = "btnReportes";
+            this.btnReportes.Size = new System.Drawing.Size(200, 50);
+            this.btnReportes.Location = new System.Drawing.Point(0, 345);
+            this.btnReportes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnReportes.BackColor = System.Drawing.Color.FromArgb(20, 20, 20);
+            this.btnReportes.ForeColor = System.Drawing.Color.White;
+            this.btnReportes.Font = new System.Drawing.Font("Segoe UI", 10);
+            this.btnReportes.FlatAppearance.BorderSize = 0;
+            this.btnReportes.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnReportes.Padding = new System.Windows.Forms.Padding(15, 0, 0, 0);
+            this.btnReportes.Cursor = System.Windows.Forms.Cursors.Hand;
+
             this.panelContenido.Location = new System.Drawing.Point(200, 0);
             this.panelContenido.Size = new System.Drawing.Size(600, 500);
             this.panelContenido.BackColor = System.Drawing.Color.FromArgb(30, 30, 30);
@@ -103,7 +118,7 @@
             this.ClientSize = new System.Drawing.Size(800, 500);
             this.Controls.Add(this.panelLateral);
             this.Controls.Add(this.panelContenido);
-            this.Text = "Sistema Delivery Motoconcho";
+            this.Text = "Maiquelys Gonzalez";
             this.BackColor = System.Drawing.Color.FromArgb(30, 30, 30);
             this.Name = "FrmMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
@@ -115,6 +130,7 @@
         private System.Windows.Forms.Button btnRepartidores;
         private System.Windows.Forms.Button btnPedidos;
         private System.Windows.Forms.Button btnLiquidacion;
+        private System.Windows.Forms.Button btnReportes;
         private System.Windows.Forms.Label labelLogo;
         private System.Windows.Forms.Label labelSub;
         private System.Windows.Forms.Label labelBienvenida;

@@ -11,3 +11,4 @@ C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.FrmRepartidor.r
 C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.csproj.GenerateResource.cache
 C:\practica\DeliveryMotoconcho\Delivery.UI\bin\Debug\Delivery.UI.exe
 C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.exe
+C:\practica\DeliveryMotoconcho\Delivery.UI\obj\Debug\Delivery.UI.FrmPedido.resources

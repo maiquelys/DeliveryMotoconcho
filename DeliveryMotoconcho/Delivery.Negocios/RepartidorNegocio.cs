@@ -7,13 +7,13 @@ namespace Delivery.Negocios
     {
         private RepartidorDAO dao = new RepartidorDAO();
 
-        // Método normal
+        // metodo normal
         public List<Repartidor> ObtenerTodos()
         {
             return dao.ObtenerTodos();
         }
 
-        // Método como función — retorna valor calculado
+        // metodo como funcion 
         public List<Repartidor> ObtenerDisponibles()
         {
             return dao.ObtenerTodos().FindAll(r => r.Disponible == true);

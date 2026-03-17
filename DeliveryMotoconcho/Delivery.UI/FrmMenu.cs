@@ -12,6 +12,7 @@ namespace Delivery.UI
             btnRepartidores.Click += btnRepartidores_Click;
             btnPedidos.Click += btnPedidos_Click;
             btnLiquidacion.Click += btnLiquidacion_Click;
+            btnReportes.Click += btnReportes_Click;
         }
 
         private void ActivarBoton(Button btn)
@@ -22,7 +23,8 @@ namespace Delivery.UI
             btnPedidos.ForeColor = Color.White;
             btnLiquidacion.BackColor = Color.FromArgb(20, 20, 20);
             btnLiquidacion.ForeColor = Color.White;
-
+            btnReportes.BackColor = Color.FromArgb(20, 20, 20);
+            btnReportes.ForeColor = Color.White;
             btn.BackColor = Color.FromArgb(255, 105, 180);
             btn.ForeColor = Color.White;
         }
@@ -53,6 +55,12 @@ namespace Delivery.UI
         {
             ActivarBoton(btnLiquidacion);
             AbrirFormulario(new FrmLiquidacion());
+        }
+
+        private void btnReportes_Click(object sender, EventArgs e)
+        {
+            ActivarBoton(btnReportes);
+            AbrirFormulario(new FrmReportes());
         }
     }
 }
